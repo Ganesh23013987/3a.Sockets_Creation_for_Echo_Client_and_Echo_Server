@@ -10,18 +10,18 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ### Client.py:
-<img width="740" alt="3a client" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/189c7baf-15b9-4998-9111-153ec13603d0">
+<img width="840" alt="3a client" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/189c7baf-15b9-4998-9111-153ec13603d0">
 
 ### Server.py:
-<img width="740" alt="3a-server" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/6ca1a6c1-7b85-4318-9d87-55ebe549e260">
+<img width="840" alt="3a-server" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/6ca1a6c1-7b85-4318-9d87-55ebe549e260">
 
 
 ## OUPUT:
 ### Client.py
-<img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
+<img width="840" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
 
 ### Server.py
-<img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/5aae1083-1c71-4cbc-9610-7ca057a7b387">
+<img width="840" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/5aae1083-1c71-4cbc-9610-7ca057a7b387">
 
 
 
