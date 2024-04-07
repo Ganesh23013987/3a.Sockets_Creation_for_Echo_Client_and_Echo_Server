@@ -10,26 +10,12 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ### Client.py:
-```
-import socket 
-s=socket.socket() 
-s.connect(('localhost',8000)) 
-while True: 
-    msg=input("Client > ") 
-    s.send(msg.encode()) 
-    print("Server > ",s.recv(1024).decode())  
-```
+<img width="740" alt="3a client" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/189c7baf-15b9-4998-9111-153ec13603d0">
+
 ### Server.py:
-```
-import socket 
-s=socket.socket() 
-s.bind(('localhost',8000)) 
-s.listen(5) 
-c,addr=s.accept() 
-while True: 
-    ClientMessage=c.recv(1024).decode() 
-    c.send(ClientMessage.encode())
-```
+<img width="740" alt="3a-server" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/6ca1a6c1-7b85-4318-9d87-55ebe549e260">
+
+
 ## OUPUT:
 ### Client.py
 <img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
