@@ -34,7 +34,8 @@ while True:
 <img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
 
 
-<img width="524" alt="3a-server py" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/154e1286-df70-4360-b104-cae77914f9ca">
+<img width="788" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/09c9b2ea-d4d1-44fd-962d-92688c3caca7">
+
 
 
 ## RESULT
