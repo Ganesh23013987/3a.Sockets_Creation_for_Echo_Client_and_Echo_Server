@@ -35,7 +35,7 @@ while True:
 <img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
 
 ### Server.py
-<img width="557" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/fd62e7aa-9b52-4516-b0fe-f2a4c8a9169a">
+<img width="679" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/c07dd8fe-8666-4efb-8c53-dce71544f755">
 
 
 
