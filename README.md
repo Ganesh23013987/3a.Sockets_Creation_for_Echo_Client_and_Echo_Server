@@ -31,7 +31,8 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT:
-<img width="494" alt="3a-client py" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/8b07a899-6a0f-44d7-93c4-abe12906f63f">
+<img width="740" alt="image" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/1f2354fb-0a34-4612-9f73-caf15a303e55">
+
 
 <img width="524" alt="3a-server py" src="https://github.com/Ganesh23013987/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147473768/154e1286-df70-4360-b104-cae77914f9ca">
 
